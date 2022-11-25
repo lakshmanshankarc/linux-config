@@ -38,5 +38,4 @@ nnoremap <C-l> :call CocActionAsync('jumpDefinition')<CR>
 
 let g:NERDTreeDirArrowExpandables='+'
 let g:NERDTReeDirAllowCollapsn;/*;
-sudo pkill -9 NetworkManager
-e="~"
+
