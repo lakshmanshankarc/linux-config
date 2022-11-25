@@ -4,7 +4,7 @@ read usr;
 var="$(whoami)"
 if [ $usr = "/" ]
 then
-       cat /dev/null > /root/.bash_historyi
+       cat /dev/null > /root/.bash_history
        echo "root user history will be deleted"
 elif [ $usr = $var ]
 then
