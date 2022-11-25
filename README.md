@@ -5,7 +5,7 @@ Neovim is a terminal editor which is based on vim
 It is an updated version of vim and also supports multiple plugins like vs code
 
 ## Why Vim ?
-# hfjvug
+
 
 1. terminal editor you can work with vi in ssh but you cannot acces vs code in terminal
 2. Custom plugins (There are wide variety of plugins that are available for neovim) and it also supports lua where as vim supports vim scripts
